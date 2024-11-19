@@ -102,7 +102,7 @@ const TopDevelopers = () => {
   };
 
   return (
-    <div className="bg-black min-h-screen flex flex-col items-center justify-center">
+    <div className="bg-black min-h-screen flex flex-col items-center justify-center p-6">
       <p className="text-white font-normal mb-6 text-yellow-400">
         CHOOSE YOUR DEVELOPER
       </p>
