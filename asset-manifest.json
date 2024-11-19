@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/property-station/static/css/main.80309655.css",
-    "main.js": "/property-station/static/js/main.0cef66f5.js",
+    "main.css": "/property-station/static/css/main.a4ccfbb3.css",
+    "main.js": "/property-station/static/js/main.5d585177.js",
     "static/js/453.18e02f68.chunk.js": "/property-station/static/js/453.18e02f68.chunk.js",
     "static/media/SOBHA_IMAGE.jpg": "/property-station/static/media/SOBHA_IMAGE.ab4d3df1510aa93ac1b9.jpg",
     "static/media/SAMANA_IBIZA_image.jpg": "/property-station/static/media/SAMANA_IBIZA_image.471811d1211fed89ad34.jpg",
@@ -14,12 +14,12 @@
     "static/media/AZIZI_IMAGE.jpg": "/property-station/static/media/AZIZI_IMAGE.8da106bb2b24a85fc3bd.jpg",
     "static/media/logo.svg": "/property-station/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/property-station/index.html",
-    "main.80309655.css.map": "/property-station/static/css/main.80309655.css.map",
-    "main.0cef66f5.js.map": "/property-station/static/js/main.0cef66f5.js.map",
+    "main.a4ccfbb3.css.map": "/property-station/static/css/main.a4ccfbb3.css.map",
+    "main.5d585177.js.map": "/property-station/static/js/main.5d585177.js.map",
     "453.18e02f68.chunk.js.map": "/property-station/static/js/453.18e02f68.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.80309655.css",
-    "static/js/main.0cef66f5.js"
+    "static/css/main.a4ccfbb3.css",
+    "static/js/main.5d585177.js"
   ]
 }
