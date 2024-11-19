@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/property-station/static/css/main.80309655.css",
+    "main.js": "/property-station/static/js/main.0cef66f5.js",
+    "static/js/453.18e02f68.chunk.js": "/property-station/static/js/453.18e02f68.chunk.js",
+    "static/media/SOBHA_IMAGE.jpg": "/property-station/static/media/SOBHA_IMAGE.ab4d3df1510aa93ac1b9.jpg",
+    "static/media/SAMANA_IBIZA_image.jpg": "/property-station/static/media/SAMANA_IBIZA_image.471811d1211fed89ad34.jpg",
+    "static/media/Ellington_Belgrove_image.jpg": "/property-station/static/media/Ellington_Belgrove_image.5aab693a3ab53515c5da.jpg",
+    "static/media/Aqua_arc_BNW.jpg": "/property-station/static/media/Aqua_arc_BNW.c9c1b2a12c48eaad8e76.jpg",
+    "static/media/Danube_image.jpg": "/property-station/static/media/Danube_image.1ae86c9c210257fd5a3e.jpg",
+    "static/media/EMAAR_IMAGE.jpg": "/property-station/static/media/EMAAR_IMAGE.f4255bfec647d3aa3b2c.jpg",
+    "static/media/DAMAC_image.jpg": "/property-station/static/media/DAMAC_image.ba0294a4d8db0a281426.jpg",
+    "static/media/Prestige_One-Seaside.jpg": "/property-station/static/media/Prestige_One-Seaside.ecdf3e5726be5bac4f31.jpg",
+    "static/media/AZIZI_IMAGE.jpg": "/property-station/static/media/AZIZI_IMAGE.8da106bb2b24a85fc3bd.jpg",
+    "static/media/logo.svg": "/property-station/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/property-station/index.html",
+    "main.80309655.css.map": "/property-station/static/css/main.80309655.css.map",
+    "main.0cef66f5.js.map": "/property-station/static/js/main.0cef66f5.js.map",
+    "453.18e02f68.chunk.js.map": "/property-station/static/js/453.18e02f68.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80309655.css",
+    "static/js/main.0cef66f5.js"
+  ]
+}
